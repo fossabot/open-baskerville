@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fopen-baskerville.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fopen-baskerville?ref=badge_shield)
+
 Welcome to the Open Baskerville project.
 
 Open Baskerville is an open source project to create a digital revival of the famous ‘Baskerville’ typefaces. To be more exact, Open Baskerville is based upon Fry’s Baskerville, a Baskerville derivative created by Isaac Moore, a punchcutter who worked for John Baskerville.
@@ -20,6 +22,9 @@ FontForge supports UFO natively, as will the upcoming version of Fontlab. For Fo
 ## License ##
 
 The Open Baskerville font files are dual-licensed under the GNU GPL version 3 (GNU General Public License) and the SIL Open Font License (OFL). See 'COPYING-GPLv3.txt' and 'COPYING-OFL.txt' respectively. There is also a FAQ on the OFL (see 'COPYING-OFL-FAQ.txt').
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fopen-baskerville.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fopen-baskerville?ref=badge_large)
 
 ## Contribute back ##
 
